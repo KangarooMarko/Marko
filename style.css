@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+
+    color: white;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
